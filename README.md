@@ -1,4 +1,5 @@
 # 🧹 Proceso de Limpieza y Preparación de Datos (Data Cleaning)
+por: Juan Guillermo Marulanda Mesa
 
 Esta sección describe los pasos realizados para inspeccionar, limpiar y preparar el conjunto de datos antes del análisis exploratorio o la modelización. El proceso se llevó a cabo utilizando la librería `pandas`.
 
